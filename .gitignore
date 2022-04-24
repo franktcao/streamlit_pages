@@ -1,0 +1,5 @@
+# Virtual environment
+*.venv/
+
+# Docker history
+.docker_command_history/*
